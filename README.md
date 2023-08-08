@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React, Python**
 
-- 📫 How to reach me **nainwaltanuj9389@gmail.com**
+- 📫 How to reach me: **nainwaltanuj9389@gmail.com**
 
-- ⚡ Fun fact **You are, I'm not. Now think😁**
+- ⚡ Fun fact: **You are, I'm not. Now think😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
