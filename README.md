@@ -30,7 +30,7 @@ A passionate learner and developer from India. I'm currently learning react, Pyt
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html5,css3,javascript,c,python,c++&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,cpp,python,c++&perline=9"  />
 </p>
 <br />
 
@@ -73,8 +73,8 @@ A passionate learner and developer from India. I'm currently learning react, Pyt
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://twitter.com/tanuj_nainwal" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanuj_nainwal" /></a>
-<a href="https://instagram.com/_tanuj_1718" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tanuj_1718" /></a>
+<!-- <a href="https://twitter.com/tanuj_nainwal" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanuj_nainwal" /></a>
+<a href="https://instagram.com/_tanuj_1718" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tanuj_1718" /></a> -->
 <a href="https://www.linkedin.com/in/tanujn" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
