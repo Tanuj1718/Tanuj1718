@@ -53,9 +53,9 @@ A passionate learner and developer from India. I'm currently learning react, Pyt
 <br/>
 <br />
 
-<p><a href="https://github.com/Tanuj1718#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanuj1718&theme=nightowl#gh-dark-mode-only" alt="Tanuj1718" /></a>
+<!--<p><a href="https://github.com/Tanuj1718#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanuj1718&theme=nightowl#gh-dark-mode-only" alt="Tanuj1718" /></a>
 <a href="https://github.com/Tanuj1718#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanuj1718&theme=vue#gh-light-mode-only" alt="Tanuj1718" /></a></p>
-<br/>
+<br/> !-->
 
 ---
 
