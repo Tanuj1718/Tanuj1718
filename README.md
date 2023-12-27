@@ -7,7 +7,7 @@
                     
 
 <p align="left">
-A passionate learner and developer from India. I'm currently learning react, Python. 
+A passionate learner and developer from India. I'm currently learning C++, React. 
 <br/>How to reach me: nainwaltanuj9389@gmail.com</p>
 <p align="left"> 
   <a href="https://github.com/Tanuj1718?tab=repositories&sort=stargazers#gh-light-mode-only">
