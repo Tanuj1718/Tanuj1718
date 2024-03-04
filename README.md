@@ -7,8 +7,8 @@
                     
 
 <p align="left">
-A passionate learner and developer from India. I'm currently learning C++, React. 
-<br/>How to reach me: nainwaltanuj9389@gmail.com</p>
+A passionate learner and developer from India. I'm currently doing DSA with C++ and learning MERN. 
+<br/>How to reach me:  <a href="mailto:nainwaltanuj9389@gmail.com">nainwaltanuj9389@gmail.com</a></p>
 <p align="left"> 
   <a href="https://github.com/Tanuj1718?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tanuj1718?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
