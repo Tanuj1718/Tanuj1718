@@ -84,7 +84,7 @@
 <p align="left">
 
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanujn/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://https://discordapp.com/users/eyewal_44370/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/eyewal_44370/)
 <!-- <a href="https://twitter.com/tanuj_nainwal" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanuj_nainwal" /></a>
 <a href="https://instagram.com/_tanuj_1718" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tanuj_1718" /></a> -->
 
