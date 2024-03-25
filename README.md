@@ -1,14 +1,22 @@
-<h1> Hi👋, I'm Tanuj Nainwal</h1>
+<h1 align="center"> Hi👋, I'm Tanuj Nainwal</h1>
 <br /> 
 
-                    
-`**Digital Craftsman (Developer / Programmer)**`
+<p align="center">**Digital Craftsman (Developer / Programmer)**<p/>
 
+ <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanuj1718&theme=gruvbox"/>
+  </a>
+</p>
                     
 
 <p align="left">
-A passionate learner and developer from India. I'm currently doing DSA with C++ and learning MERN. 
-<br/>How to reach me:  <a href="mailto:nainwaltanuj9389@gmail.com">nainwaltanuj9389@gmail.com</a></p>
+<br/>- 🌱 I’m currently learning **DSA, MERN**
+  
+  - 📫 How to reach me **nainwaltanuj9389@gmail.com**
+
+  - ⚡ Fun fact: **Naturally introvert, Selectively extrovert**
 <p align="left"> 
   <a href="https://github.com/Tanuj1718?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tanuj1718?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -18,10 +26,11 @@ A passionate learner and developer from India. I'm currently doing DSA with C++ 
   
   <a href="https://github.com/Tanuj1718?tab=followers#gh-light-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tanuj1718?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
   <a href="https://github.com/Tanuj1718?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tanuj1718?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj1718&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj1718" /> </p>
+    
 
 ---
 <br />
@@ -73,10 +82,17 @@ A passionate learner and developer from India. I'm currently doing DSA with C++ 
 
 <h2>Connect With Me</h2> 
 <p align="left">
+
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanujn/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://https://discordapp.com/users/eyewal_44370/)
 <!-- <a href="https://twitter.com/tanuj_nainwal" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanuj_nainwal" /></a>
 <a href="https://instagram.com/_tanuj_1718" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tanuj_1718" /></a> -->
-<a href="https://www.linkedin.com/in/tanujn" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
 </p>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting+My+Profile+:-)">
+</h3>
 
                 
 
