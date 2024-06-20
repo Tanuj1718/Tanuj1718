@@ -39,7 +39,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,mongodb,express,cpp,python,c++&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,nodejs,mongodb,express,cpp,python,c++&perline=9"  />
 </p>
 <br />
 
