@@ -73,8 +73,8 @@
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/Tanuj1718/InstaClone#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuj1718&repo=InstaClone&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Tanuj1718/InstaClone#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuj1718&repo=InstaClone&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/Tanuj1718/InstaClone#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuj1718&repo=Golang-Project2&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/Tanuj1718/Golang-Project2#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuj1718&repo=InstaClone&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
