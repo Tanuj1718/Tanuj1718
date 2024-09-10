@@ -12,7 +12,7 @@
                     
 
 <p align="left">
-<br/>- 🌱 I’m currently learning **DSA, MERN**
+<br/>- 🌱 I’m currently learning **DSA, MERN and Go**
   
   - 📫 How to reach me **nainwaltanuj9389@gmail.com**
 
