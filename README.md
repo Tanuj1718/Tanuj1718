@@ -14,7 +14,8 @@
                     
 
 <p align="left">
-<br/>- 🌱 I’m currently learning **DSA, MERN and Go**
+<br/> 
+  - 🌱 I am currently doing Django, MERN and Golang
   
   - 📫 How to reach me **nainwaltanuj9389@gmail.com**
 
@@ -31,18 +32,23 @@
   <a href="https://github.com/Tanuj1718?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tanuj1718?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj1718&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj1718" /> </p>
-    
-
----
+<h3 align="center">Visitor's Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Tanuj1718}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Tanuj1718}/count.svg)  
+  
+</a>
 <br />
 
                     
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,nodejs,mongodb,express,cpp,python,c++,go&perline=9"  />
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+
 <br />
 
                     
@@ -50,6 +56,7 @@
 <p><a href="https://github.com/Tanuj1718#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj1718&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Tanuj1718" /></a>
   <a href="https://github.com/Tanuj1718#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj1718&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Tanuj1718" /></a>
 </p>
+
 
 <br />
 
