@@ -1,3 +1,5 @@
+[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://jainsparsh5.io)
+
 <h1 align="center"> Hi👋, I'm Tanuj Nainwal</h1>
 <br /> 
 
