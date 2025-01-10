@@ -19,7 +19,7 @@
   
   - 📫 How to reach me **nainwaltanuj9389@gmail.com**
 
-  - ⚡ Fun fact: **Naturally introvert, Selectively extrovert**
+  - ⚡ **Fun fact:** Naturally introvert, Selectively extrovert
 <p align="left"> 
   <a href="https://github.com/Tanuj1718?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tanuj1718?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
