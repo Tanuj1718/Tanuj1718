@@ -15,7 +15,10 @@
 
 <p align="left">
 <br/> 
-  - 🌱 I am currently doing Django, MERN and Golang
+ 
+  - 👨🏻‍💻 Doing Open Source Contributions
+ 
+  - 🌱 Currently learning Software Engineering
   
   - 📫 How to reach me **nainwaltanuj9389@gmail.com**
 
