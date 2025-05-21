@@ -18,7 +18,7 @@
  
   - 👨🏻‍💻 Doing Open Source Contributions
  
-  - 🌱 Currently learning Fullstack Development
+  - 🌱 Currently learning Fullstack Development (Actual fullstack😏)
   
   - 📫 How to reach me **nainwaltanuj9389@gmail.com**
 
