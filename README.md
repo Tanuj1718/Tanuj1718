@@ -3,7 +3,7 @@
 <h1 align="center"> Hola amigo👋, I'm Tanuj Nainwal</h1>
 <br /> 
 
-<p align="center">**Digital Craftsman (Developer / Programmer)**<p/>
+<p align="center">**Not passionate , enthusiastic blah blah but a person who loves to contribute in everthing **<p/>
 
  <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
