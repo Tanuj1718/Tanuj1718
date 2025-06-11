@@ -3,7 +3,7 @@
 <h1 align="center"> Hola amigo👋, I'm Tanuj Nainwal</h1>
 <br /> 
 
-<p align="center">**Not passionate , enthusiastic blah blah but a person who loves to contribute in everything (life, relationships, work)🤭. I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/>
+<p align="center">**Not passionate , enthusiastic blah blah but a person who tries to give his best in everything🤭. I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/>
 <!--  <br/> 
 <p align="center">**I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/> -->
 
