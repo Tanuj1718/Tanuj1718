@@ -3,7 +3,7 @@
 <h1 align="center"> Hola amigo👋, I'm Tanuj Nainwal</h1>
 <br /> 
 
-<p align="center">**Not passionate , enthusiastic blah blah. I try to give my best in everything🤭 and I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/>
+<p align="center">**I’m not just about passion ,enthusiasm or blah blah – I’m about giving my all, with a healthy dose of balance over perfection. Let’s connect and see how I can contribute to your team! 😌🚀 **<p/>
 <!--  <br/> 
 <p align="center">**I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/> -->
 
@@ -20,11 +20,11 @@
  
   - 👨🏻‍💻 Doing Open Source Contributions
  
-  - 🌱 Currently learning Fullstack Development (Actual fullstack😏)
+  - 🌱 Currently improving problem solving skills
   
   - 📫 How to reach me **nainwaltanuj9389@gmail.com**
 
-  - ⚡ **Fun fact:** Naturally introvert, Selectively extrovert
+  - ⚡ **Fun fact:** Naturally introvert, Selectively extrovert 🙆‍♂️
 <p align="left"> 
   <a href="https://github.com/Tanuj1718?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tanuj1718?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -87,7 +87,7 @@
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/Tanuj1718/MakeYourMoney#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuj1718&repo=MakeYourMoney&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/Tanuj1718/NetworkSniffer#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanuj1718&repo=NetworkSniffer&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <br />
 
 
