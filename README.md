@@ -18,7 +18,7 @@
 <p align="left">
 <br/> 
  
-  - 👨🏻‍💻 Doing Open Source Contributions
+  - 👨🏻‍💻 ICPC Regionalist '25 || SIH Finalist '25 || Open Source Contributor
  
   - 🌱 Currently improving problem solving skills
   
