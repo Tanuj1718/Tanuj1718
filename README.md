@@ -3,7 +3,9 @@
 <h1 align="center"> Hola amigo👋, I'm Tanuj Nainwal</h1>
 <br /> 
 
-<p align="center">**I’m not just about passion ,enthusiasm or blah blah – I’m about giving my all, with a healthy dose of balance over perfection. Let’s connect and see how I can contribute to your team! 😌🚀 **<p/>
+<p align="center">**I’m not just about “passion” and “enthusiasm” (we’ve all seen that LinkedIn speech 😌). I’m about showing up, giving 100%, and knowing when 100% is better than 110% perfection paralysis. **<p/>
+<b> <p align="center">Perfection is cool. Progress is cooler.</p></b>
+ 
 <!--  <br/> 
 <p align="center">**I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/> -->
 
