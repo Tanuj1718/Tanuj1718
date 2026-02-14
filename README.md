@@ -7,14 +7,35 @@
 <!--  <br/> 
 <p align="center">**I believe in balance regardless of perfection. Hire me for your company to know more😅 **<p/> -->
 
- <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+ ---
+ 
+##  Achievements
+
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanuj1718&theme=gruvbox"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOMC13IHjnRX883JpCHcleclE3jyxU2vVIQ&s" width="90"/><br/><br/>
+      <b>ICPC Asia West 2025</b><br/>
+      Amritapuri Regionalist
+    </td>
+    <td align="center" width="33%">
+      <img src="https://imgs.search.brave.com/4KK4MgdEpN0IgrNaBUZ7eu4i-41JuCS2zEKpzHU63eI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jc2Uu/bm90aWNlYmFyZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzIzLzIwMjUv/MDYvSU1HXzIzNjkt/MTAyNHg1NzYuanBl/Zw" width="90"/><br/><br/>
+      <b>Smart India Hackathon 2025</b><br/>
+      National Finalist<br/>
+      <sub>Top 5 / 500+ teams</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="90"/><br/><br/>
+      <b>DSA & Competitive Programming</b><br/>
+      600+ LeetCode<br/>
+      1000+ Total Problems
+    </td>
+  </tr>
+</table>
 </p>
                     
-
+---
 <p align="left">
 <br/> 
  
